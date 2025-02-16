@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.0.3](https://github.com/gr1m0h/slo-burn/compare/v0.0.2...v0.0.3) - 2025-02-16
+- chore(deps): update actions/setup-node action to v4 by @renovate in https://github.com/gr1m0h/slo-burn/pull/20
+
 ## [v0.0.2](https://github.com/gr1m0h/slo-burn/compare/v0.0.1...v0.0.2) - 2025-02-16
 - feat: Add workflows for publishing and versioning by @gr1m0h in https://github.com/gr1m0h/slo-burn/pull/18
 
